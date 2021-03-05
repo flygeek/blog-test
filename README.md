@@ -17,6 +17,8 @@
 
 这是我学到的一段代码
 
+`git commit`
+
 ```bash
 git add .
 ```
